@@ -84,6 +84,8 @@ CURRENT   NAME                          CLUSTER      AUTHINFO           NAMESPAC
 	
 cd .. ; 
 cat .kube/config
+or 
+vi ~/.kube/config
 
 # Role Verification and Testing
 
